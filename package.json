@@ -1,6 +1,6 @@
 {
   "name": "hade",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "html to jade",
   "main": "index.js",
   "scripts": {
