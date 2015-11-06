@@ -2,7 +2,7 @@
 
 html to jade
 
-[![npm version](https://badge.fury.io/js/je.svg)](http://badge.fury.io/js/hade)
+[![npm version](https://badge.fury.io/js/hade.svg)](http://badge.fury.io/js/hade)
 
 ## Install 
 
