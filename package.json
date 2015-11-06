@@ -9,7 +9,8 @@
   },
   "preferGlobal": "true",
   "bin": {
-    "je": "index.js"
+    "hade": "index.js",
+    "lade": "index.js"
   },
   "author": "",
   "license": "ISC",
