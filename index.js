@@ -42,11 +42,11 @@ io.on('connection', function(socket){ /* … */
     socket.emit('jade2html', {html : html});
   });
   
-  socket.on('edit html', function(html, callback) {
+  socket.on('edit html', function(html, bodyless, callback) {
     console.log(12121);
     console.log(html);
     
-    html2jade.convertHtml(html, {}, function (err, jade) {
+    html2jade.convertHtml(html, {bodyless : bodyless}, function (err, jade) {
       // do your thing
       console.log(jade);
       socket.emit('html2jade', jade);

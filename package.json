@@ -1,7 +1,7 @@
 {
   "name": "hade",
   "version": "1.0.2",
-  "description": "",
+  "description": "html to jade",
   "main": "index.js",
   "scripts": {
     "start": "npm publish .",
